@@ -9,7 +9,7 @@ def get_weather():
         return
 
 
-    api_key = "64615e6a8c6c4e41a8a5980db3108ac7" 
+    api_key = "YOUR_API_KEY_HERE" 
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     
     params = {
