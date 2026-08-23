@@ -1,8 +1,10 @@
 # Weather App 🌤️
 
+
 A simple desktop weather application built with Python and Tkinter that fetches real-time weather data using the OpenWeatherMap API.
 
 ## Features ✨
+
 
 - **Real-time Weather 🌡️**: Get current temperature, weather conditions, humidity, and wind speed.
 - **Graphical Interface 🖥️**: User-friendly GUI built with Tkinter.
@@ -10,10 +12,12 @@ A simple desktop weather application built with Python and Tkinter that fetches 
 
 ## Prerequisites 📋
 
+
 - Python 3.x
 - pip (Python package installer)
 
 ## Installation 🛠️
+
 
 1. **Clone the repository** (if applicable) or download the source code.
 
@@ -29,6 +33,7 @@ A simple desktop weather application built with Python and Tkinter that fetches 
    ```
 
 ## Usage 🚀
+
 
 1. **Run the application**:
    ```bash
@@ -50,6 +55,7 @@ api_key = "YOUR_API_KEY_HERE"
 ```
 
 ## Dependencies 📦
+
 
 - `requests`: For making HTTP requests to the weather API.
 - `urllib3`: Dependency for requests.
