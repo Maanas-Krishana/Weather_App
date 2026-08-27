@@ -13,6 +13,7 @@ A simple desktop weather application built with Python and Tkinter that fetches 
 ## Prerequisites 📋
 
 
+
 - Python 3.x
 - pip (Python package installer)
 
@@ -33,6 +34,7 @@ A simple desktop weather application built with Python and Tkinter that fetches 
    ```
 
 ## Usage 🚀
+
 
 
 1. **Run the application**:
